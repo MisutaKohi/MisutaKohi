@@ -1,6 +1,6 @@
 ### Hi there ☕️☕️☕️
 
-I'm a graduate student at the University of Pennsylvania studying Computer Science. I'm currently focused on computer fundamentals like 
+I'm a graduate student at the University of Pennsylvania studying Computer Science. I'm currently focused on the fundamentals like 
 Operating Systems, Networking, Algorithms, and more. 
 
 In the future, I plan to study broadly across Data Science disciplines line Computational Linguistics (NLP), Computer Vision, and Artificial 
