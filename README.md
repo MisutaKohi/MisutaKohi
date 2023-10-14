@@ -1,11 +1,7 @@
-### Hi there ☕️☕️☕️
+### Hi, I'm Ryan! 👋
 
-I'm a graduate student at the University of Pennsylvania studying Computer Science. I'm currently focused on the fundamentals like 
-Operating Systems, Networking, Algorithms, and more. 
+I'm a full stack software engineer with an interest in large-scale systems ⚙️, entrepreneurship 💼, espresso ☕️, and making the world 🌎 a better place.
 
-In the future, I plan to study broadly across Data Science disciplines line Computational Linguistics (NLP), Computer Vision, and Artificial 
-Intelligence, before finally picking an area to specialize.
-
-That's the plan anyway!
+As a graduate student at the University of Pennsylvania, I'm studying Computer Science as a part of Penn's MCIT program. When I finish this program in Dec. 2024, I'll be heading straight into a new one in Jan. 2025 as a part of Penn's Master of Science in Engineering. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisutaKohi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
